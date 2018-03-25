@@ -13,4 +13,4 @@
     "fileUploadResponse": "File upload has FAILED. Please check the path or try again later"
   }`
 * Written JUnit test cases for Controller and Service classes.
-* Tested the API (/api/upload/files) using POSTMAN. Attached screenshot in the project.
+* Tested the API (/api/upload/files) using POSTMAN. Attached screenshots related to testing.
