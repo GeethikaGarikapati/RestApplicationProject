@@ -12,7 +12,7 @@ public class FileService {
 
 	// replace this path with required destination path where you want to upload
 	// the files
-	private static String DESTINATION_PATH = "C://Users//Geeta//hello//";
+	private static String DESTINATION_PATH = "C://Users//Geeta//Downloads//";
 
 	public boolean isFileUploaded(MultipartFile fileName) {
 
